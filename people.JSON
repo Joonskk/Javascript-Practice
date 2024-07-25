@@ -1,0 +1,16 @@
+{
+  "people" : [
+    {
+      "name" : "Barak Obama",
+      "email" : "obama@gmail.com"
+    },
+    {
+      "name" : "Tom Cruise",
+      "email" : "tom@naver.com"
+    },
+    {
+      "name" : "Taylor Swift",
+      "email" : "taylor@daum.net"
+    }
+  ]
+}
